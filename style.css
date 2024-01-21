@@ -1,0 +1,39 @@
+body {
+    background-image: url('https://images.creativemarket.com/0.1.0/ps/5912337/1820/1213/m1/fpnw/wm1/tq3dpzrfpjdhuzk9yqb2zgsq446ssnplh9b8fzsbeo1oemh6ec5kkpp6gamxff7e-.jpg?1550561650&s=5c8e2e797d2405585e6676d70d42229f');
+    background-position: center;
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(17, 25, 40, 0);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+    background-repeat: no-repeat;
+}
+
+.container{
+    background-color:whitesmoke;
+    margin: 30px 10px;
+    border-radius: 20px;
+}
+   
+   
+
+h4{
+    text-align: center;
+    color:green;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container1{
+    background-color:aliceblue;
+    margin-right:100px;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+
+table{
+    /* border: 2px solid black; */
+    width:100%;
+}
+th,td{
+    border: 2px solid black;
+}
